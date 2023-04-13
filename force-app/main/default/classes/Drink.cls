@@ -1,0 +1,40 @@
+global class Drink {
+    @InvocableVariable
+    @AuraEnabled public String strDrink;
+    @AuraEnabled public String strDrinkThumb;
+    @AuraEnabled public String idDrink;
+    @AuraEnabled public String strVideo;
+    @AuraEnabled public String strGlass;
+    @AuraEnabled public String strInstructions;
+    @AuraEnabled public String strIngredient1;
+    @AuraEnabled public String strIngredient2;
+    @AuraEnabled public String strIngredient3;
+    @AuraEnabled public String strIngredient4;
+    @AuraEnabled public String strIngredient5;
+    @AuraEnabled public String strIngredient6;
+    @AuraEnabled public String strIngredient7;
+    @AuraEnabled public String strIngredient8;
+    @AuraEnabled public String strIngredient9;
+    @AuraEnabled public String strIngredient10;
+    @AuraEnabled public String strIngredient11;
+    @AuraEnabled public String strIngredient12;
+    @AuraEnabled public String strIngredient13;
+    @AuraEnabled public String strIngredient14;
+    @AuraEnabled public String strIngredient15;
+    @AuraEnabled public String strMeasure1;
+    @AuraEnabled public String strMeasure2;
+    @AuraEnabled public String strMeasure3;
+    @AuraEnabled public String strMeasure4;
+    @AuraEnabled public String strMeasure5;
+    @AuraEnabled public String strMeasure6;
+    @AuraEnabled public String strMeasure7;
+    @AuraEnabled public String strMeasure8;
+    @AuraEnabled public String strMeasure9;
+    @AuraEnabled public String strMeasure10;
+    @AuraEnabled public String strMeasure11;
+    @AuraEnabled public String strMeasure12;
+    @AuraEnabled public String strMeasure13;
+    @AuraEnabled public String strMeasure14;
+    @AuraEnabled public String strMeasure15;
+    @AuraEnabled public String error;
+}
